@@ -34,8 +34,8 @@
 
 <br>
 
-[!NOTE]
-Vale ressaltar que para esse projeto usamos duas API's diferente. A primeira: Game Of Thrones API, e a segunda: Rick and Morty API.
+>[!NOTE]
+>Vale ressaltar que para esse projeto usamos duas API's diferente. A primeira: Game Of Thrones API, e a segunda: Rick and Morty API.
 
 <br>
 
