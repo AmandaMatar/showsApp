@@ -51,6 +51,9 @@ Vale ressaltar que para esse projeto usamos duas API's diferente. A primeira: Ga
 
 >[!WARNING]
 >Algumas adaptações foram feitas no código.
+
+<br>
+
 :nerd_face:
 
 <br>
