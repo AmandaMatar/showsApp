@@ -39,18 +39,18 @@ Vale ressaltar que para esse projeto usamos duas API's diferente. A primeira: Ga
 
 <br>
 
-[!NOTE]
-Outra questão é que no curso o professor usa outra API para o primeiro caso (Breaking Bad API), mas no momento do curso essa API já não está disponível e por isso ele sugere trabalhar com a Game Of Thrones. Porém, surge outro problema, usando a Game Of Thrones API não é possível realizar a paginação adequada, pois essa API não suporta. Por isso, nesse projeto a paginação não é feita. O código com essa páginação está comentada para enventuais consultas.
+>[!NOTE]
+>Outra questão é que no curso o professor usa outra API para o primeiro caso (Breaking Bad API), mas no momento do curso essa API já não está disponível e por isso ele sugere trabalhar com a Game Of Thrones. Porém, surge outro problema, usando a Game Of Thrones API não é possível realizar a paginação adequada, pois essa API não suporta. Por isso, nesse projeto a paginação não é feita. O código com essa páginação está comentada para enventuais consultas.
 
 <br>
 
-[!NOTE]
-Usamos também nesse projeto a Naive UI para renderizar os cards e botões.
+>[!NOTE]
+>Usamos também nesse projeto a Naive UI para renderizar os cards e botões.
 
 <br>
 
-[!WARNING]
-Algumas adaptações foram feitas no código.
+>[!WARNING]
+>Algumas adaptações foram feitas no código.
 :nerd_face:
 
 <br>
