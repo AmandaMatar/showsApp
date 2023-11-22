@@ -8,7 +8,7 @@
 
 <br>
 
-[[!template](https://drive.google.com/uc?id=1C6jXsqC77iyzGo2OqPJbKT1sMVZ2mlMN)](https://youtu.be/SDrCw4k9u_0)
+[![template](https://drive.google.com/uc?id=1C6jXsqC77iyzGo2OqPJbKT1sMVZ2mlMN)](https://youtu.be/SDrCw4k9u_0)
 
 <br>
 
@@ -49,6 +49,8 @@ Usamos também nesse projeto a Naive UI para renderizar os cards e botões.
 
 <br>
 
+[!WARNING]
+Algumas adaptações foram feitas no código.
 :nerd_face:
 
 <br>
